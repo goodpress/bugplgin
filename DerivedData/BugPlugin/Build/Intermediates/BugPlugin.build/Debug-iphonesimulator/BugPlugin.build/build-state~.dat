@@ -1,0 +1,361 @@
+TBugPlugin
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/Info.plist BugPlugin/BugPlugin-Info.plist
+cProcessPCH /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch.pth BugPlugin/BugPlugin-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/main.o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginAppDelegate.o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginBrain.o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FFAAC2D0000000000244490
+t1341828141
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FFAAC2E0000000000353830
+t1341828142
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FFAAC330000000000905E40
+t1341828147
+s9461312
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/../bg_topbar.png
+c0000000050C3418D0000000000000A00
+t1354973581
+s2560
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/../bg_topbar@2x.png
+c0000000050C3418D0000000000001691
+t1354973581
+s5777
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m
+c0000000050F161AE0000000000000CBB
+t1357996462
+s3259
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.xib
+c0000000050F1607D0000000000005615
+t1357996157
+s22037
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugInfo.plist
+c0000000050F0D123000000000000011A
+t1357959459
+s282
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPlugin-Prefix.pch
+c0000000050EE38F60000000000000141
+t1357789430
+s321
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginAppDelegate.m
+c0000000050F162880000000000000A7C
+t1357996680
+s2684
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m
+c0000000050F0D55F00000000000000E9
+t1357960543
+s233
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/en.lproj/InfoPlist.strings
+c0000000050EE38F6000000000000002D
+t1357789430
+s45
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/icon_topbar_backbtn.png
+c0000000050C3418E000000000000011A
+t1354973582
+s282
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/icon_topbar_backbtn@2x.png
+c0000000050C3418E00000000000001A9
+t1354973582
+s425
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/main.m
+c0000000050EE38F6000000000000016C
+t1357789430
+s364
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/tips_feedback.png
+c0000000050C3418E0000000000000C14
+t1354973582
+s3092
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/tips_feedback@2x.png
+c0000000050C3418E0000000000001CB9
+t1354973582
+s7353
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.o
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPlugin.LinkFileList
+c0000000050F162F600000000000002E4
+t1357996790
+s740
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginAppDelegate.o
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginBrain.o
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch.pth
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app.dSYM
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/BPVCViewController.nib
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/BugInfo.plist
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/BugPlugin
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/Info.plist
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/PkgInfo
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/bg_topbar.png
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/bg_topbar@2x.png
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/icon_topbar_backbtn.png
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/icon_topbar_backbtn@2x.png
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/tips_feedback.png
+t2
+s0
+
+N/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/tips_feedback@2x.png
+t2
+s0
+
+NBugPlugin/BugPlugin-Info.plist
+c0000000050EE38F60000000000000492
+t1357789430
+s1170
+
+CBuild AST from /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m
+r0
+
+CBuild AST from /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginAppDelegate.m
+r0
+
+CBuild AST from /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m
+r0
+
+CBuild AST from /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese71bc5769aa1b641^6bd6dd769aa1b641^---0#1#0#--18"Check dependencies36"137E773B-0FDA-41D3-92A3-0459CB759B0F-
+
+CCompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379689591.360893
+e379689592.044642
+r0
+xCompileC
+xDerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.o
+x/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m:24:12: error: cannot find interface declaration for 'BugPluginViewController'
+o@interface BugPluginViewController (){
+o           ^
+o/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m:25:5: error: unknown type name 'BugPluginBrain'
+o    BugPluginBrain *_bpBrain;
+o    ^
+o0  clang             0x000000010ed2d422 _ZL15PrintStackTracePv + 34
+o1  clang             0x000000010ed2d8a9 _ZL13SignalHandleri + 553
+o2  libsystem_c.dylib 0x00007fff89adbcfa _sigtramp + 26
+o3  libsystem_c.dylib 000000000000000000 _sigtramp + 18446603338206298912
+o4  clang             0x000000010df57309 clang::Sema::ActOnIvar(clang::Scope*, clang::SourceLocation, clang::Declarator&, clang::Expr*, clang::tok::ObjCKeywordKind) + 505
+o5  clang             0x000000010e649426 clang::Parser::ParseObjCClassInstanceVariables(clang::Decl*, clang::tok::ObjCKeywordKind, clang::SourceLocation)::ObjCIvarCallback::invoke(clang::FieldDeclarator&) + 70
+o6  clang             0x000000010de97362 clang::Parser::ParseStructDeclaration(clang::DeclSpec&, clang::Parser::FieldCallback&) + 1186
+o7  clang             0x000000010df56e02 clang::Parser::ParseObjCClassInstanceVariables(clang::Decl*, clang::tok::ObjCKeywordKind, clang::SourceLocation) + 818
+o8  clang             0x000000010df5585b clang::Parser::ParseObjCAtInterfaceDeclaration(clang::SourceLocation, clang::ParsedAttributes&) + 1131
+o9  clang             0x000000010df4d6ca clang::Parser::ParseObjCAtDirectives() + 250
+o10 clang             0x000000010de8f507 clang::Parser::ParseExternalDeclaration(clang::Parser::ParsedAttributesWithRange&, clang::Parser::ParsingDeclSpec*) + 759
+o11 clang             0x000000010df6edf3 clang::Parser::ParseObjCAtImplementationDeclaration(clang::SourceLocation) + 1203
+o12 clang             0x000000010df4d73b clang::Parser::ParseObjCAtDirectives() + 363
+o13 clang             0x000000010de8f507 clang::Parser::ParseExternalDeclaration(clang::Parser::ParsedAttributesWithRange&, clang::Parser::ParsingDeclSpec*) + 759
+o14 clang             0x000000010de8f199 clang::Parser::ParseTopLevelDecl(clang::OpaquePtr<clang::DeclGroupRef>&) + 249
+o15 clang             0x000000010de720a5 clang::ParseAST(clang::Sema&, bool) + 325
+o16 clang             0x000000010de70bd7 clang::CodeGenAction::ExecuteAction() + 855
+o17 clang             0x000000010de4313f clang::CompilerInstance::ExecuteAction(clang::FrontendAction&) + 879
+o18 clang             0x000000010de41dcb clang::ExecuteCompilerInvocation(clang::CompilerInstance*) + 2683
+o19 clang             0x000000010de345ce cc1_main(char const**, char const**, char const*, void*) + 5086
+o20 clang             0x000000010de0edd8 main + 648
+o21 clang             0x000000010de0eb44 start + 52
+o22 clang             0x000000000000006f start + 18446744069181740383
+oStack dump:
+o0.	Program arguments: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -cc1 -triple i386-apple-macosx10.6.0 -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -main-file-name BPVCViewController.m -pic-level 1 -mdisable-fp-elim -relaxed-aliasing -masm-verbose -target-cpu yonah -target-linker-version 128.2 -g -coverage-file /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.o -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/3.1 -dependency-file /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.d -MT dependencies -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-generated-files.hmap -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-project-headers.hmap -include-pch /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch.pth -D DEBUG=1 -D IBOutlet=__attribute__((iboutlet)) -D IBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName))) -D IBAction=void)__attribute__((ibaction) -D __IPHONE_OS_VERSION_MIN_REQUIRED=50100 -I /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-own-target-headers.hmap -I /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-all-target-headers.hmap -I /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/include -I /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources/i386 -I /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources -F/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator -fmodule-cache-path /var/folders/1n/krjj67bx5x30zg9k610bbtym0000gn/T/clang-module-cache -O0 -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wprotocol -Wdeprecated-declarations -Wno-conversion -Wno-sign-conversion -std=gnu99 -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fblocks -fobjc-runtime-has-arc -fobjc-runtime-has-weak -fobjc-exceptions -fexceptions -fpascal-strings -fdiagnostics-show-option -serialize-diagnostic-file /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.dia -o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.o -x objective-c /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m 
+o1.	/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m:25:29: current parser token ';'
+oclang: error: unable to execute command: Segmentation fault: 11
+oclang: error: clang frontend command failed due to signal 2 (use -v to see invocation)
+oclang: note: diagnostic msg: Please submit a bug report to http://developer.apple.com/bugreporter/ and include command line arguments and all diagnostic information.
+oclang: note: diagnostic msg: Preprocessed source(s) and associated run script(s) are located at:
+oclang: note: diagnostic msg: /var/folders/1n/krjj67bx5x30zg9k610bbtym0000gn/T/BPVCViewController-1E55QL.mi
+oclang: note: diagnostic msg: /var/folders/1n/krjj67bx5x30zg9k610bbtym0000gn/T/BPVCViewController-1E55QL.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m8a8e5c779aa1b641^226d0b789aa1b641^-7869"/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m:24:12: error: cannot find interface declaration for 'BugPluginViewController'@interface BugPluginViewController (){           ^/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m:25:5: error: unknown type name 'BugPluginBrain'    BugPluginBrain *_bpBrain;    ^0  clang             0x000000010ed2d422 _ZL15PrintStackTracePv + 341  clang             0x000000010ed2d8a9 _ZL13SignalHandleri + 5532  libsystem_c.dylib 0x00007fff89adbcfa _sigtramp + 263  libsystem_c.dylib 000000000000000000 _sigtramp + 184466033382062989124  clang             0x000000010df57309 clang::Sema::ActOnIvar(clang::Scope*, clang::SourceLocation, clang::Declarator&, clang::Expr*, clang::tok::ObjCKeywordKind) + 5055  clang             0x000000010e649426 clang::Parser::ParseObjCClassInstanceVariables(clang::Decl*, clang::tok::ObjCKeywordKind, clang::SourceLocation)::ObjCIvarCallback::invoke(clang::FieldDeclarator&) + 706  clang             0x000000010de97362 clang::Parser::ParseStructDeclaration(clang::DeclSpec&, clang::Parser::FieldCallback&) + 11867  clang             0x000000010df56e02 clang::Parser::ParseObjCClassInstanceVariables(clang::Decl*, clang::tok::ObjCKeywordKind, clang::SourceLocation) + 8188  clang             0x000000010df5585b clang::Parser::ParseObjCAtInterfaceDeclaration(clang::SourceLocation, clang::ParsedAttributes&) + 11319  clang             0x000000010df4d6ca clang::Parser::ParseObjCAtDirectives() + 25010 clang             0x000000010de8f507 clang::Parser::ParseExternalDeclaration(clang::Parser::ParsedAttributesWithRange&, clang::Parser::ParsingDeclSpec*) + 75911 clang             0x000000010df6edf3 clang::Parser::ParseObjCAtImplementationDeclaration(clang::SourceLocation) + 120312 clang             0x000000010df4d73b clang::Parser::ParseObjCAtDirectives() + 36313 clang             0x000000010de8f507 clang::Parser::ParseExternalDeclaration(clang::Parser::ParsedAttributesWithRange&, clang::Parser::ParsingDeclSpec*) + 75914 clang             0x000000010de8f199 clang::Parser::ParseTopLevelDecl(clang::OpaquePtr<clang::DeclGroupRef>&) + 24915 clang             0x000000010de720a5 clang::ParseAST(clang::Sema&, bool) + 32516 clang             0x000000010de70bd7 clang::CodeGenAction::ExecuteAction() + 85517 clang             0x000000010de4313f clang::CompilerInstance::ExecuteAction(clang::FrontendAction&) + 87918 clang             0x000000010de41dcb clang::ExecuteCompilerInvocation(clang::CompilerInstance*) + 268319 clang             0x000000010de345ce cc1_main(char const**, char const**, char const*, void*) + 508620 clang             0x000000010de0edd8 main + 64821 clang             0x000000010de0eb44 start + 5222 clang             0x000000000000006f start + 18446744069181740383Stack dump:0.	Program arguments: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -cc1 -triple i386-apple-macosx10.6.0 -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -main-file-name BPVCViewController.m -pic-level 1 -mdisable-fp-elim -relaxed-aliasing -masm-verbose -target-cpu yonah -target-linker-version 128.2 -g -coverage-file /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.o -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/3.1 -dependency-file /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.d -MT dependencies -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-generated-files.hmap -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-project-headers.hmap -include-pch /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch.pth -D DEBUG=1 -D IBOutlet=__attribute__((iboutlet)) -D IBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName))) -D IBAction=void)__attribute__((ibaction) -D __IPHONE_OS_VERSION_MIN_REQUIRED=50100 -I /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-own-target-headers.hmap -I /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-all-target-headers.hmap -I /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/include -I /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources/i386 -I /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources -F/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator -fmodule-cache-path /var/folders/1n/krjj67bx5x30zg9k610bbtym0000gn/T/clang-module-cache -O0 -Wno-trigraphs -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wprotocol -Wdeprecated-declarations -Wno-conversion -Wno-sign-conversion -std=gnu99 -ferror-limit 19 -fmessage-length 0 -stack-protector 1 -fblocks -fobjc-runtime-has-arc -fobjc-runtime-has-weak -fobjc-exceptions -fexceptions -fpascal-strings -fdiagnostics-show-option -serialize-diagnostic-file /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.dia -o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.o -x objective-c /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m 1.	/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m:25:29: current parser token ';'clang: error: unable to execute command: Segmentation fault: 11clang: error: clang frontend command failed due to signal 2 (use -v to see invocation)clang: note: diagnostic msg: Please submit a bug report to http://developer.apple.com/bugreporter/ and include command line arguments and all diagnostic information.clang: note: diagnostic msg: Preprocessed source(s) and associated run script(s) are located at:clang: note: diagnostic msg: /var/folders/1n/krjj67bx5x30zg9k610bbtym0000gn/T/BPVCViewController-1E55QL.miclang: note: diagnostic msg: /var/folders/1n/krjj67bx5x30zg9k610bbtym0000gn/T/BPVCViewController-1E55QL.shCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 2541(21%IDEActivityLogMessage2@126"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 254-379689592#18446744073709551615#0#-2#--29"Apple LLVM compiler 3.1 Error--0#0#0#-19%DVTDocumentLocation3@98"file://localhost/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m0000000000000000^3932"CompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.o BugPlugin/BPVCViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-generated-files.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-own-target-headers.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-all-target-headers.hmap -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-project-headers.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/include -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources/i386 -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources -F/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator -include /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch -MMD -MT dependencies -MF /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.d --serialize-diagnostics /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.dia -c /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.m -o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BPVCViewController.o36"60259964-6F57-4909-8A44-77FFC9E1EE9E-
+
+CCompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginAppDelegate.o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379689591.360190
+e379689591.447222
+r1
+xCompileC
+xDerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginAppDelegate.o
+x/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginAppDelegate.m9f5b5c779aa1b641^137d72779aa1b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginAppDelegate.m0000000000000000^3944"CompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginAppDelegate.o BugPlugin/BugPluginAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-generated-files.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-own-target-headers.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-all-target-headers.hmap -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-project-headers.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/include -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources/i386 -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources -F/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator -include /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch -MMD -MT dependencies -MF /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginAppDelegate.d --serialize-diagnostics /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginAppDelegate.dia -c /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginAppDelegate.m -o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginAppDelegate.o36"DA0C49B2-4EFC-4AC3-9476-28ECF6915D49-
+
+CCompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginBrain.o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379689591.360311
+e379689591.396662
+r1
+xCompileC
+xDerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginBrain.o
+x/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m:12:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation BugPluginBrain
+o                ^
+o/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.h:12:1: note: method definition for 'getBugTitleWithVersionIdStr:' not found
+o- (NSString *)getBugTitleWithVersionIdStr:(NSString *)VersionIdStr;
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m27675c779aa1b641^0a9f65779aa1b641^-445"/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m:12:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation BugPluginBrain                ^/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.h:12:1: note: method definition for 'getBugTitleWithVersionIdStr:' not found- (NSString *)getBugTitleWithVersionIdStr:(NSString *)VersionIdStr;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-379689591#18446744073709551615#0#1(2@62"Method definition for 'getBugTitleWithVersionIdStr:' not found-379689591#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@94"file://localhost/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.h0000000000000000^11#0#11#0#221#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@94"file://localhost/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m0000000000000000^11#16#11#16#212#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@94"file://localhost/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m0000000000000000^3908"CompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginBrain.o BugPlugin/BugPluginBrain.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-generated-files.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-own-target-headers.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-all-target-headers.hmap -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-project-headers.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/include -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources/i386 -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources -F/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator -include /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch -MMD -MT dependencies -MF /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginBrain.d --serialize-diagnostics /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginBrain.dia -c /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPluginBrain.m -o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/BugPluginBrain.o36"6C603C99-933F-41CC-B78F-5906173289ED-
+
+CCompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/main.o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379689591.359624
+e379689591.394070
+r1
+xCompileC
+xDerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/main.o
+x/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/main.m302f5c779aa1b641^38f664779aa1b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/main.m0000000000000000^3848"CompileC DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/main.o BugPlugin/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-generated-files.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-own-target-headers.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-all-target-headers.hmap -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-project-headers.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/include -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources/i386 -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources -F/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator -include /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch -MMD -MT dependencies -MF /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/main.dia -c /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/main.m -o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/Objects-normal/i386/main.o36"97CFFE09-0AEA-4360-B27E-00D33159601D-
+
+CCompileXIB /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BPVCViewController.xib
+r0
+
+CCopyPlistFile /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/BugInfo.plist BugPlugin/BugInfo.plist
+r0
+
+CCopyStringsFile /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/en.lproj/InfoPlist.strings BugPlugin/en.lproj/InfoPlist.strings
+r0
+
+CCpResource BugPlugin/../bg_topbar.png DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/bg_topbar.png
+r0
+
+CCpResource BugPlugin/../bg_topbar@2x.png DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/bg_topbar@2x.png
+r0
+
+CCpResource BugPlugin/icon_topbar_backbtn.png DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/icon_topbar_backbtn.png
+r0
+
+CCpResource BugPlugin/icon_topbar_backbtn@2x.png DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/icon_topbar_backbtn@2x.png
+r0
+
+CCpResource BugPlugin/tips_feedback.png DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/tips_feedback.png
+r0
+
+CCpResource BugPlugin/tips_feedback@2x.png DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/tips_feedback@2x.png
+r0
+
+CGenerateDSYMFile /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app.dSYM /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/BugPlugin
+r0
+
+CLd /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/BugPlugin normal i386
+r0
+
+CProcessInfoPlistFile /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/Info.plist BugPlugin/BugPlugin-Info.plist
+s379689590.874245
+e379689590.918899
+r1
+xProcessInfoPlistFile
+x/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/Info.plist
+xBugPlugin/BugPlugin-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process BugPlugin/BugPlugin-Info.plist7de7df769aa1b641^ee42eb769aa1b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPlugin-Info.plist0000000000000000^796"ProcessInfoPlistFile DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/Info.plist BugPlugin/BugPlugin-Info.plist    cd /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BugPlugin/BugPlugin-Info.plist -genpkginfo /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app/Info.plist36"018E7A2D-FFB3-4C93-875A-FF596DC3D3DA-
+
+CProcessPCH /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch.pth BugPlugin/BugPlugin-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379689590.927242
+e379689591.352724
+r1
+xProcessPCH
+x/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch.pth
+xBugPlugin/BugPlugin-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile BugPlugin/BugPlugin-Prefix.pcheb8eed769aa1b641^994b5a779aa1b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPlugin-Prefix.pch0000000000000000^3728"ProcessPCH DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch.pth BugPlugin/BugPlugin-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-generated-files.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-own-target-headers.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-all-target-headers.hmap -iquote /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/BugPlugin-project-headers.hmap -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/include -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources/i386 -I/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/BugPlugin.build/Debug-iphonesimulator/BugPlugin.build/DerivedSources -F/Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch.dia -c /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/BugPlugin/BugPlugin-Prefix.pch -o /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch.pth -MMD -MT dependencies -MF /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Intermediates/PrecompiledHeaders/BugPlugin-Prefix-fymmwsnypcemuqbarrvrlkrlfmtl/BugPlugin-Prefix.pch.d36"4F1760AD-8AAA-4026-8256-4797602C2B05-
+
+CProcessPCH /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Index/PrecompiledHeaders/BugPlugin-Prefix-csipxrachzlvyhhdbmdfpcrnqpyf_ast/BugPlugin-Prefix.pch.pth BugPlugin/BugPlugin-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/weiyuke/Dropbox/workspace_iOS_code/BugPlugin/DerivedData/BugPlugin/Build/Products/Debug-iphonesimulator/BugPlugin.app
+r0
+

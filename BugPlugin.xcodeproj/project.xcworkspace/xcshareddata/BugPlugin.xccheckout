@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>41A4EC85-8708-499B-B649-5868939AAB1D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BugPlugin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>050467D0-EEBB-4685-8ED1-5311C517A861</key>
+		<string>https://github.com/goodpress/bugplgin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BugPlugin.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>050467D0-EEBB-4685-8ED1-5311C517A861</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/goodpress/bugplgin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>050467D0-EEBB-4685-8ED1-5311C517A861</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>050467D0-EEBB-4685-8ED1-5311C517A861</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bugplgin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
